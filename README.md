@@ -1,4 +1,4 @@
-![ALU Logo](ALU Logo Full.png)
+![ALU Logo](alu_logo.png)
 # ALU Shell
 
 
