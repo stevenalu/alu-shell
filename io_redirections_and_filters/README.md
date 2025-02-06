@@ -1,14 +1,15 @@
-#Shell, I/O Redirections and filters
+# Shell, I/O Redirections and filters
+
 In this project, I learnt about shell I/O redirections and also what command like head, tail, find, wc, sort, uniq, grep, tr do.
 
-#Tasks 📃
-Task 0: The /0-hello_world file contains a script that prints “Hello, World”, followed by a new line to the standard output.
+# Tasks 📃
+Task 0: The 0-hello_world/ file contains a script that prints “Hello, World”, followed by a new line to the standard output.
 
-Task 1: The /1-confused_smiley file contains a script that displays a confused smiley "(Ôo)'.
+Task 1: The 1-confused_smiley/ file contains a script that displays a confused smiley "(Ôo)'.
 
-Task 2: The /2-hellofile file contains a script that displays the content of the /etc/passwd file.
+Task 2: The 2-hellofile/ file contains a script that displays the content of the /etc/passwd file.
 
-Task 3: The /3-twofiles file contains a script that displays the content of /etc/passwd and /etc/hosts.
+Task 3: The /3-twofiles/ file contains a script that displays the content of /etc/passwd and /etc/hosts.
 
 Task 4: The /4-lastlines file contains a script that displays the last 10 lines of /etc/passwd.
 
