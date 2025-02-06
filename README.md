@@ -1,4 +1,4 @@
-![ALU Logo](https://drive.google.com/file/d/1aFGrwyv5RqsZvV8FiITuDtGvyv1eg93Q/view?usp=sharing)
+![ALU Logo](ALU Logo Full.png)
 # ALU Shell
 
 
